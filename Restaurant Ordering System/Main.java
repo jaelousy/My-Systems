@@ -1,6 +1,3 @@
-package schoolProjectes;
-
-
 public class Main {
 	
 	public static void delay(int milliseconds) {
