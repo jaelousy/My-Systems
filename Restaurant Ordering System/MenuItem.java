@@ -1,5 +1,3 @@
-package schoolProjectes;
-
 public class MenuItem {
 	private String product;
 	private int price;
