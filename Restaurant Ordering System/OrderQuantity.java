@@ -1,5 +1,3 @@
-package schoolProjectes;
-
 public class OrderQuantity {
 	 private MenuItem item;
 	 private int quantity;
